@@ -1,5 +1,10 @@
 note: project files are located in complete > src > main > java > shopifyapi
 
+To run the project, go into the complete folder, and run:
+```
+./mvnw spring-boot:run
+```
+
 # Shopping API Documentation
 
 A REST API built in Java using the Spring framework and JPA, where users can track and review orders and inventory for stores. 
