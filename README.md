@@ -1,15 +1,14 @@
 # Shopping API Documentation
 
-### note
+A REST API built in Java using the Spring framework and JPA, where users can track and review orders and inventory for stores. 
+It has full CRUD functionality, allowing users to create and edit products, shops, orders, and customers.
+
 Project files are located in complete > src > main > java > shopifyapi
 
 To run the project, go into the complete folder, and run:
 ```
 ./mvnw spring-boot:run
 ```
-
-A REST API built in Java using the Spring framework and JPA, where users can track and review orders and inventory for stores. 
-It has full CRUD functionality, allowing users to create and edit products, shops, orders, and customers.
 
 ## Customers
 * Customers are referenced in Orders, and one Customer can have many Orders 
