@@ -211,14 +211,14 @@ Example of body:
 	"shop":{"id":2},
 	"date":"September 21, 2018",
 	"lineItems": [
-    {
-	"product": { 
-"productCode":"12305",
-"name":"Peanut Butter",
-"price":5.99
-},
-		"quantity":5
-	    }
+    		{
+			"product": {
+				"productCode":"12305",
+				"name":"Peanut Butter",
+				"price":5.99
+			},
+			"quantity":5
+	    	}
 	]
 }
 ```
