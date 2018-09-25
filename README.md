@@ -1,4 +1,4 @@
-note: project files are located in complete > src > main > java > shopifyapi
+Project files are located in complete > src > main > java > shopifyapi
 
 To run the project, go into the complete folder, and run:
 ```
